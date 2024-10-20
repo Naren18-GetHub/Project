@@ -1,1 +1,1 @@
-# Project
+# Project ~ Course Management System
